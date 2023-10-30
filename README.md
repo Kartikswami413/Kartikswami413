@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartikswami413
 - 👀 I’m interested in .learn coding..
-- 🌱 I’m currently learning .in 12th standard..
+- 🌱 I’m currently learning .in first year Btech..
 - 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me ...in java
 
