@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Kartikswami413
-- 👀 I’m interested in .learn coding..
-- 🌱 I’m currently learning .in first year Btech..
-- 💞️ I’m looking to collaborate on coding.
-- 📫 How to reach me ...in java
+- 👀 I’m interested in coding..
+- 🌱 I’m currently learning in  Btech.
 
 <!---
 Kartikswami413/Kartikswami413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
